@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Big-Bites-Landing-Page/static/css/main.c46b3090.css",
+    "main.js": "/Big-Bites-Landing-Page/static/js/main.85ba958d.js",
+    "index.html": "/Big-Bites-Landing-Page/index.html",
+    "main.c46b3090.css.map": "/Big-Bites-Landing-Page/static/css/main.c46b3090.css.map",
+    "main.85ba958d.js.map": "/Big-Bites-Landing-Page/static/js/main.85ba958d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c46b3090.css",
+    "static/js/main.85ba958d.js"
+  ]
+}
