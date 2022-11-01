@@ -1,5 +1,5 @@
 # Big Bites Food Website
-View Deployed Website Here: 
+View Deployed Website Here: https://baileyben.github.io/Big-Bites-Landing-Page/
 
 A Landing Page for a food company created in React and Tailwind CSS
 
